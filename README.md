@@ -8,7 +8,7 @@
     6. 在研项目            → §Projects 中补充自己的仓库
 ============================================================= -->
 
-# Hi, I'm Xianrui 👋
+# Hi, I'm Xianrui Zhao 👋
 
 <!-- TODO: 按实际情况修改学位/学院;如是本科生改为 Undergraduate Student -->
 **M.S. Student** · School of Computer and Artificial Intelligence, **Zhengzhou University** <!-- TODO: 中文名可写为 Xianrui (显锐) 等 -->
@@ -21,10 +21,10 @@ and run efficiently on real hardware.
   <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat-square"/></a>
   <a href="https://orcid.org/0000-0000-0000-0000"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white&style=flat-square"/></a>
   <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square"/></a>
-  <a href="https://github.com/luckyandricky"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square"/></a>
+  <a href="https://github.com/zzu-xianrui"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square"/></a>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=luckyandricky&style=flat-square&color=indigo&abbreviated=true)
+![Profile views](https://komarev.com/ghpvc/?username=zzu-xianrui&style=flat-square&color=indigo&abbreviated=true)
 
 ---
 
@@ -83,23 +83,23 @@ I'm open to research collaboration and academic exchange — feel free to reach 
 ## 📊 GitHub Stats
 
 <p>
-  <a href="https://github.com/luckyandricky">
+  <a href="https://github.com/zzu-xianrui">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=luckyandricky&show_icons=true&hide_border=true&theme=tokyonight" />
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=luckyandricky&show_icons=true&hide_border=true" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zzu-xianrui&show_icons=true&hide_border=true&theme=tokyonight" />
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=zzu-xianrui&show_icons=true&hide_border=true" />
     </picture>
   </a>
-  <a href="https://github.com/luckyandricky">
+  <a href="https://github.com/zzu-xianrui">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyandricky&layout=compact&hide_border=true&theme=tokyonight" />
-      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyandricky&layout=compact&hide_border=true" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-xianrui&layout=compact&hide_border=true&theme=tokyonight" />
+      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-xianrui&layout=compact&hide_border=true" />
     </picture>
   </a>
 </p>
-<a href="https://github.com/luckyandricky">
+<a href="https://github.com/zzu-xianrui">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=luckyandricky&hide_border=true&theme=tokyonight&card_width=480" />
-    <img height="165" src="https://streak-stats.demolab.com?user=luckyandricky&hide_border=true&card_width=480" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=zzu-xianrui&hide_border=true&theme=tokyonight&card_width=480" />
+    <img height="165" src="https://streak-stats.demolab.com?user=zzu-xianrui&hide_border=true&card_width=480" />
   </picture>
 </a>
 
