@@ -12,7 +12,6 @@ building methods that let models learn continuously and search design spaces aut
 - **LLM Agents & Continual Learning** — agentic workflow optimization, test-time adaptation, memory systems
 - **Evolutionary Computation** — neuroevolution, GPU-accelerated EAs, neural architecture search
 - **AI for Autonomous Discovery** — LLM-driven scientific research agents
-- **Energy-Efficient AI** — accelerator modeling & hardware–architecture co-design (Accelergy / Eyeriss)
 
 ---
 
@@ -27,7 +26,6 @@ building methods that let models learn continuously and search design spaces aut
 | 🧠 **LLM Agents & Continual Learning** | [Nested Learning](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/) · [Titans](https://github.com/lucidrains/titans-pytorch) · [TextGrad](https://github.com/zou-group/textgrad) · [AFlow](https://github.com/FoundationAgents/AFlow) · [MiniMind](https://jingyaogong.github.io/minimind/) |
 | 🧬 **Evolutionary Computation** | [EvoX](https://evox.readthedocs.io/) · [DEAP](https://github.com/DEAP/deap) · [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython) · [cgp-cnn](https://github.com/sg-nm/cgp-cnn-PyTorch) · [GENOME(+)](https://github.com/ZhangYiqun018/GENOME) |
 | 🤖 **AI Scientists** | [DeepScientist](https://github.com/ResearAI/DeepScientist) · [AFlow](https://github.com/FoundationAgents/AFlow) |
-| ⚡ **Energy-Efficient AI** | [Accelergy](https://github.com/Accelergy-Project/accelergy) · [Eyeriss](https://eyeriss.mit.edu/) · [CNN Theory](https://towardsdatascience.com/derivation-of-convolutional-neural-network-from-fully-connected-network-step-by-step-b42ebafa5275) |
 
 </details>
 
