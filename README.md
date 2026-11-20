@@ -1,8 +1,7 @@
 # Hi, I'm Xianrui Zhao 👋
 
-I work on **LLM agents**, **evolutionary computation**, and **energy-efficient AI** —
-building methods that let models learn continuously, search design spaces automatically,
-and run efficiently on real hardware.
+I work on **LLM agents** and **evolutionary computation** —
+building methods that let models learn continuously and search design spaces automatically.
 
 ![Profile views](https://komarev.com/ghpvc/?username=zzu-xianrui&style=flat-square&color=indigo&abbreviated=true)
 
@@ -14,31 +13,6 @@ and run efficiently on real hardware.
 - **Evolutionary Computation** — neuroevolution, GPU-accelerated EAs, neural architecture search
 - **AI for Autonomous Discovery** — LLM-driven scientific research agents
 - **Energy-Efficient AI** — accelerator modeling & hardware–architecture co-design (Accelergy / Eyeriss)
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <a href="https://github.com/zzu-xianrui">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zzu-xianrui&show_icons=true&hide_border=true&theme=tokyonight" />
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=zzu-xianrui&show_icons=true&hide_border=true" />
-    </picture>
-  </a>
-  <a href="https://github.com/zzu-xianrui">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-xianrui&layout=compact&hide_border=true&theme=tokyonight" />
-      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzu-xianrui&layout=compact&hide_border=true" />
-    </picture>
-  </a>
-</p>
-<a href="https://github.com/zzu-xianrui">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=zzu-xianrui&hide_border=true&theme=tokyonight&card_width=480" />
-    <img height="165" src="https://streak-stats.demolab.com?user=zzu-xianrui&hide_border=true&card_width=480" />
-  </picture>
-</a>
 
 ---
 
