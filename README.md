@@ -1,17 +1,15 @@
 <!-- ============================================================
   ✏️ 推送前请替换以下占位信息(均有 TODO 注释标记):
-    1. 姓名与学位阶段(头部、Education 表)
+    1. 姓名与学位阶段(头部两行)
     2. Google Scholar ID   → YOUR_SCHOLAR_ID
     3. ORCID iD            → 0000-0000-0000-0000
-    4. 邮箱                → Contact 区的 your.email@example.com
-    5. 论文条目            → 取消 §Publications 中模板的注释并填写
-    6. 在研项目            → §Projects 中补充自己的仓库
+    4. 邮箱                → 顶部 Email 徽章
 ============================================================= -->
 
 # Hi, I'm Xianrui Zhao 👋
 
 <!-- TODO: 按实际情况修改学位/学院;如是本科生改为 Undergraduate Student -->
-**M.S. Student** · School of Computer and Artificial Intelligence, **Zhengzhou University** <!-- TODO: 中文名可写为 Xianrui (显锐) 等 -->
+**M.S. Student** · School of Computer and Artificial Intelligence, **Zhengzhou University** <!-- TODO: 中文姓名可补在此处 -->
 
 I work on **LLM agents**, **evolutionary computation**, and **energy-efficient AI** —
 building methods that let models learn continuously, search design spaces automatically,
@@ -34,49 +32,6 @@ and run efficiently on real hardware.
 - **Evolutionary Computation** — neuroevolution, GPU-accelerated EAs, neural architecture search
 - **AI for Autonomous Discovery** — LLM-driven scientific research agents
 - **Energy-Efficient AI** — accelerator modeling & hardware–architecture co-design (Accelergy / Eyeriss)
-
----
-
-## 📚 Publications
-
-<!--
-  发布论文后,按以下模板新增条目(最新的放最上面),并删除此注释块:
-
-  ### Continual Learning for LLM Agents via Nested Optimization
-  **X. Author**, J. Doe, A. Researcher
-  <a href="#"><img alt="Venue" src="https://img.shields.io/badge/NeurIPS-2026-blue?style=flat-square"/></a>
-  [Paper](#) · [arXiv](#) · [Code](#)
-
-  常用 venue 徽章色:ML 方向 blue、系统方向 orange、交叉方向 green
--->
-*\* Manuscripts in preparation — full list will be updated here and on [Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID).*
-
----
-
-## 🎓 Education
-
-| Years | Degree | Institution |
-|-------|--------|-------------|
-| 20XX – now | M.S. in Computer Science & Technology | Zhengzhou University |
-| 20XX – 20XX | B.Eng. in Computer Science | XX University |
-
----
-
-## 🧪 Projects
-
-<!-- TODO: 替换为自己名下的仓库;建议同时把 2–6 个仓库 Pin 到 GitHub 个人主页 -->
-- 🚧 **Awesome-Agent-Lab** — course/research toolkit for LLM agent experiments `Python`
-- 🚧 **EA-Suite** — reproducible benchmarks for GPU-accelerated evolutionary algorithms `JAX`
-
----
-
-## 📮 Contact
-
-I'm open to research collaboration and academic exchange — feel free to reach out:
-
-- 📧 Email: `your.email@example.com` <!-- TODO -->
-- 💬 GitHub Issues / Discussions on any of my repos
-- 🔗 Google Scholar / ORCID badges at the top of this page
 
 ---
 
