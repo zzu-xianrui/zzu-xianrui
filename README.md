@@ -1,26 +1,8 @@
-<!-- ============================================================
-  ✏️ 推送前请替换以下占位信息(均有 TODO 注释标记):
-    1. 姓名与学位阶段(头部两行)
-    2. Google Scholar ID   → YOUR_SCHOLAR_ID
-    3. ORCID iD            → 0000-0000-0000-0000
-    4. 邮箱                → 顶部 Email 徽章
-============================================================= -->
-
 # Hi, I'm Xianrui Zhao 👋
-
-<!-- TODO: 按实际情况修改学位/学院;如是本科生改为 Undergraduate Student -->
-**M.S. Student** · School of Computer and Artificial Intelligence, **Zhengzhou University** <!-- TODO: 中文姓名可补在此处 -->
 
 I work on **LLM agents**, **evolutionary computation**, and **energy-efficient AI** —
 building methods that let models learn continuously, search design spaces automatically,
 and run efficiently on real hardware.
-
-<p>
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat-square"/></a>
-  <a href="https://orcid.org/0000-0000-0000-0000"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white&style=flat-square"/></a>
-  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square"/></a>
-  <a href="https://github.com/zzu-xianrui"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square"/></a>
-</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=zzu-xianrui&style=flat-square&color=indigo&abbreviated=true)
 
